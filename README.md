@@ -7,7 +7,7 @@ This project involves using the News API to scrape news articles and applying to
 #1-Scraping news articles using the News API
 #2-Preprocessing the text data by removing stop words, stemming, and lemmatizing
 #3-Applying topic modeling techniques such as Latent Dirichlet Allocation (LDA) to identify the main topics in the articles
-#4-Visualizing the topics using Plotly see [the Dashboard](https://link-url-here.org)
+#4-Visualizing the topics using Plotly see [dashboard]([https://link-url-here.org](https://github.com/mustaphaamine1/News-Topic-Modeling/blob/main/Dash.pdf))
 
 Project Organization
 ------------
