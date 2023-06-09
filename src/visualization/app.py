@@ -1082,7 +1082,7 @@ app.layout = html.Div(
             [
                 
                     html.H6("Topic Modeling", style={"margin-top": "0","font-weight": "bold","text-align": "center"}),
-                    html.P("Finally, k-means clustering is carried out. The criterion can be selected on the left side, whereby either the 18 food variables, the 5 health variables or all of them in combination may be chosen for the clustering. On the right side, the resulting clusters can then be compared with respect to a chosen variable.",className="control_label",style={"text-align": "justify"}),
+                    #html.P("Finally, k-means clustering is carried out. The criterion can be selected on the left side, whereby either the 18 food variables, the 5 health variables or all of them in combination may be chosen for the clustering. On the right side, the resulting clusters can then be compared with respect to a chosen variable.",className="control_label",style={"text-align": "justify"}),
                     html.Div([ 
                     #html.P("Select a clustering criterion", className="control_label",style={"text-align": "center","font-weight":"bold"}),
                     #radio_clust_behaviour,
