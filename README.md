@@ -1,7 +1,7 @@
 #news-topic-modeling
 ==============================
 
-This project involves using the News API to scrape news articles and applying topic modeling techniques to identify the main topics in the articles. The resulting topics are then visualized using dash(Plotly), a data visualization framework built on top of Flask\
+This project involves using the News API to scrape news articles and applying topic modeling techniques to identify the main topics in the articles. The resulting topics are then visualized using dash(Plotly), a data visualization framework built on top of Flask
 * The project aims to provide insights into the main topics covered in the news articles and to help users quickly identify the most relevant articles based on their interests. The following steps are involved in the project:\
 1- Scraping news articles using the News API\
 2- Preprocessing the text data by removing stop words, stemming, and lemmatizing\
