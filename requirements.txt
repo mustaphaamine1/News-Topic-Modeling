@@ -1,0 +1,15 @@
+
+# external requirements
+click
+newsapi-python
+newspaper3k
+wordcloud
+gensim==4.3.1
+dash==2.10.0
+kaleido
+dash-table
+textblob
+dash_bootstrap_templates
+pyLDAvis
+iso3166
+nltk
